@@ -1,3 +1,5 @@
 # PythonKitExample
 
-A description of this package.
+xcodeprojを作るには
+
+`swift package generate-xcodeproj`
